@@ -11,7 +11,7 @@ The dataset contains metrics from 8 video uploads, tracking:
 
 ## Key Insights Discovered
 1. **Top Performing Category:** Educational content drives the highest traffic. The "SQL Complete Crash Course" achieved the highest overall reach with 15,000 views.
-2. **Total Reach:** The total views accumulated across all tracked videos combined is 53,100 views.
+2. **Total Reach:** The total views accumulated across all tracked videos combined is 53,600 views.
 
 ## Tools Used
 - Google Sheets (Data structuring and SUM formulas)
